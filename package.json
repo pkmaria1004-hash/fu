@@ -1,0 +1,6 @@
+{
+  "name": "kiosk-analyzer",
+  "version": "1.0.0",
+  "description": "고령층을 위한 키오스크 해석기",
+  "engines": { "node": ">=18" }
+}
